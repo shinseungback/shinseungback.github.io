@@ -6,5 +6,5 @@ permalink: /about/
 
 Programmer
 
-email: <seungback.shin@gmail.com>\\
+email: <sbshin@shinseungback.com>\\
 twitter: [@mabeop](https://twitter.com/mabeop)
